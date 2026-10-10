@@ -9,25 +9,22 @@ Soy un estudiante apasionado por la tecnología, el desarrollo de software y el 
 ### 🛠️ Tecnologías y Herramientas
 
 #### Lenguajes y Desarrollo Web
-![HTML5](https://shields.io) *(Intermedio)*  
-![Java](https://shields.io) *(Básico / En progreso)*
+- **HTML5:** `Intermedio`
+- **Java:** `Básico / En progreso`
 
 #### Bases de Datos
-![SQL](https://shields.io) *(Básico / Consultas)*
+- **SQL:** `Básico / Consultas`
 
 #### Diseño Técnico y Productividad
-![AutoCAD](https://shields.io) *(Diseño y Planos)*  
-![Microsoft Office](https://shields.io) *(Avanzado - Excel, Word, PowerPoint)*
+- **AutoCAD:** `Diseño y Planos`
+- **Microsoft Office:** `Avanzado - Excel, Word, PowerPoint`
 
 ---
 
 ### 📈 Mis Estadísticas de GitHub
 
-*Estas tarjetas se actualizarán automáticamente a medida que subas tus proyectos de Java, SQL o HTML:*
-
 <p align="left">
   <img src="https://vercel.app" alt="Estadísticas de GitHub" height="150" />
-  <img src="https://vercel.app" alt="Lenguajes más usados" height="150" />
 </p>
 
 ---
@@ -36,4 +33,4 @@ Soy un estudiante apasionado por la tecnología, el desarrollo de software y el 
 
 Si quieres conocer más sobre mi trabajo o colaborar en un proyecto, puedes encontrarme en:
 
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/isidoro-armando-carhuachin-ricra-4b44451a5?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 💼 [Mi Perfil de LinkedIn](https://linkedin.com)
