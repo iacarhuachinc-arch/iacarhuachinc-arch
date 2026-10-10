@@ -1,4 +1,4 @@
-# ¡Hola! Soy iacarhuachinc-arch 👋
+# ¡Hola! Soy Isidoro Carhuachin Ricra 👋
 
 ### Desarrollador en formación | Diseñador Técnico | Especialista en Ofimática
 
