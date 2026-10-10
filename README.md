@@ -9,19 +9,30 @@ Soy un estudiante apasionado por la tecnología, el desarrollo de software y el 
 ### 🛠️ Tecnologías y Herramientas
 
 #### Lenguajes y Desarrollo Web
-- **HTML5:** `Intermedio`
-- **Java:** `Básico / En progreso`
+![Java](https://shields.io)
+![Spring Boot](https://shields.io)
+![HTML5](https://shields.io)
 
 #### Bases de Datos
-- **SQL:** `Básico / Consultas`
+![SQL](https://shields.io)
 
 #### Diseño Técnico y Productividad
-- **AutoCAD:** `Diseño y Planos`
-- **Microsoft Office:** `Avanzado - Excel, Word, PowerPoint`
+![AutoCAD](https://shields.io)
+![Microsoft Office](https://shields.io)
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
+  <img src="https://vercel.app" alt="Lenguajes más usados" />
+</p>
+
 ---
 
 ### 🤝 Conéctate conmigo
 
 Si quieres conocer más sobre mi trabajo o colaborar en un proyecto, puedes encontrarme en:
 
-- 💼 [Mi Perfil de LinkedIn](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
