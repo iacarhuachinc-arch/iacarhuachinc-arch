@@ -18,15 +18,6 @@ Soy un estudiante apasionado por la tecnología, el desarrollo de software y el 
 #### Diseño Técnico y Productividad
 - **AutoCAD:** `Diseño y Planos`
 - **Microsoft Office:** `Avanzado - Excel, Word, PowerPoint`
-
----
-
-### 📈 Mis Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" height="150" />
-</p>
-
 ---
 
 ### 🤝 Conéctate conmigo
